@@ -59,7 +59,7 @@ Set the same VITE variables in Netlify Environment Variables.
 ## Custom domain
 
 If you own `meet.tredtsmp.net`, add it to Netlify as a custom domain and set:
-`VITE_SITE_URL=https://meet.tredtsmp.net`
+`VITE_SITE_URL=https://meettredtsmp.netlify.app`
 
 If you instead use the Netlify subdomain, set the site URL to that exact address.
 
